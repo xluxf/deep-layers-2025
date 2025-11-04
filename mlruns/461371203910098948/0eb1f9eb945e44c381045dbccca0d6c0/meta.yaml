@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/filip.lux/PROJECTS/teaching/DEEP%20LAYERS/deep-layers-2022/mlruns/461371203910098948/0eb1f9eb945e44c381045dbccca0d6c0/artifacts
+end_time: 1762195851428
+entry_point_name: ''
+experiment_id: '461371203910098948'
+lifecycle_stage: active
+run_id: 0eb1f9eb945e44c381045dbccca0d6c0
+run_name: loud-panda-671
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762193852148
+status: 3
+tags: []
+user_id: filip.lux

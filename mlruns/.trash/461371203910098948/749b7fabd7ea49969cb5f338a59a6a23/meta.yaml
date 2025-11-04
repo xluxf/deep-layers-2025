@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/filip.lux/PROJECTS/teaching/DEEP%20LAYERS/deep-layers-2022/mlruns/461371203910098948/749b7fabd7ea49969cb5f338a59a6a23/artifacts
+deleted_time: 1762214950504
+end_time: 1762200605709
+entry_point_name: ''
+experiment_id: '461371203910098948'
+lifecycle_stage: deleted
+run_id: 749b7fabd7ea49969cb5f338a59a6a23
+run_name: receptive-bird-412
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762199554043
+status: 3
+tags: []
+user_id: filip.lux

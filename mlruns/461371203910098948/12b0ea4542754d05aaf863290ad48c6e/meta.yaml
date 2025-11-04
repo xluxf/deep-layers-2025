@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/filip.lux/PROJECTS/teaching/DEEP%20LAYERS/deep-layers-2022/mlruns/461371203910098948/12b0ea4542754d05aaf863290ad48c6e/artifacts
+end_time: 1762183665079
+entry_point_name: ''
+experiment_id: '461371203910098948'
+lifecycle_stage: active
+run_id: 12b0ea4542754d05aaf863290ad48c6e
+run_name: funny-duck-203
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762182571269
+status: 3
+tags: []
+user_id: filip.lux

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/filip.lux/PROJECTS/teaching/DEEP%20LAYERS/deep-layers-2022/mlruns/818212879562340984/b3cca699c8804696929e57ce4b66a312/artifacts
+end_time: 1762214114764
+entry_point_name: ''
+experiment_id: '818212879562340984'
+lifecycle_stage: active
+run_id: b3cca699c8804696929e57ce4b66a312
+run_name: persistent-seal-112
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762212323332
+status: 3
+tags: []
+user_id: filip.lux
